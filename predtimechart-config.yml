@@ -1,0 +1,10 @@
+---
+rounds_idx: 0
+reference_date_col_name: 'reference_date'
+target_date_col_name: 'target_end_date'
+horizon_col_name: 'horizon'
+initial_checked_models: ['Amanda-XGBoost']
+initial_xaxis_range:
+  - '2025-09-06'
+  - '2026-06-13'
+disclaimer: "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes."
