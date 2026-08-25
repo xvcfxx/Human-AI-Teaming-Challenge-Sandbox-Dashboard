@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "SISMID Human-AI Teaming Forecast Challenge",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a Sandbox Hub for the SISMID Human-AI Teaming Forecast Challenge, a teaching exercise in which participants build an influenza forecasting pipeline as a human-AI team.\nForecasts in this hub are retrospective quantile predictions of weekly laboratory-confirmed influenza hospital admissions at the national level (location = \"US\") for the 2025-2026 influenza season. The data follows Hubverse data standards, and the underlying target data comes from the US CDC’s National Healthcare Safety Network (NHSN).\n\nView The Forecasts\n\nThe purpose of this hub is to let participants submit their own forecasts and compare them, in retrospect, against one another.\n\n\n\n\n\n\nWarning\n\n\n\nThese forecasts are generated retrospectively, after the season has ended. A model that is not careful to use only the data that was actually available at each forecast’s reference_date (see the data-cutoff rule in the hub README) will tend to look more accurate than a real-time model would, because it can “see” finalized values that a real-time forecaster never had."
+  },
+  {
+    "objectID": "eval.html",
+    "href": "eval.html",
+    "title": "SISMID Human-AI Teaming Forecast Challenge",
+    "section": "",
+    "text": "this is replaced"
+  }
+]
