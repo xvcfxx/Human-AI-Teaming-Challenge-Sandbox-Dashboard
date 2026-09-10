@@ -85,18 +85,18 @@
         "Amanda-XGBoost"
     ],
     "model_urls": {
-        "Yiwen-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Yiwen-ARIMA.yml",
+        "cc-XGBHybrid": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/cc-XGBHybrid.yml",
         "OMI-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/OMI-ARIMA.yml",
-        "Amanda-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Amanda-ARIMA.yml",
         "sukhyun-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/sukhyun-XGBoost.yml",
+        "Yiwen-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Yiwen-ARIMA.yml",
+        "Huan-ARIMAWW": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-ARIMAWW.yml",
         "Amanda-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Amanda-XGBoost.yml",
-        "Huan-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-XGBoost.yml",
-        "Huan-XGBoostWW": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-XGBoostWW.yml",
         "Huan-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-ARIMA.yml",
         "Gihani-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Gihani-XGBoost.yml",
-        "Huan-ARIMAWW": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-ARIMAWW.yml",
-        "cc-XGBHybrid": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/cc-XGBHybrid.yml",
-        "DKCDC-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/DKCDC-XGBoost.yml"
+        "Huan-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-XGBoost.yml",
+        "Huan-XGBoostWW": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Huan-XGBoostWW.yml",
+        "DKCDC-XGBoost": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/DKCDC-XGBoost.yml",
+        "Amanda-ARIMA": "https://github.com/bleicham/FluSight-SISMID-HumanAI/blob/main/model-metadata/Amanda-ARIMA.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
     "initial_xaxis_range": [
